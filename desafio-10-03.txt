@@ -1,0 +1,13 @@
+O que você terá que fazer?
+
+1º Passo, criar um servidor com o express como vimos, na porta 3000 do seu localhost.
+
+2º Passo, configurar rotas para seu servidor com express com o método get para:
+/
+/cadastro
+/login
+
+3º Passo, exibir os arquivos html anexos nestas respectivas rotas em seu servidor.
+
+4º Passo, criar uma rota para caso o usuario acesse / qualquer coisa depois para que apareça
+um texto informando "desculpe, essa página não existe" em vez de cannot get / texto.
